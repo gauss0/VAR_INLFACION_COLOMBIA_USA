@@ -1,4 +1,4 @@
-# VAR_INLFACION_COLOMBIA_USA
+# VAR_INFLACION_COLOMBIA_USA
 Pronóstico de la inflación de Colombia con un VAR usando la inflación de EE.UU.
 
 ## ¿Qué hice?
